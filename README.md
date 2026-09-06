@@ -7,19 +7,33 @@ From exploring the importance of design to developing solutions for real-world p
 # MY PROJECTS
 **01 — WHY DESIGN MATTERS?** 
 [ACTIVITY 1_GE 4120_TOLENTINO.pdf](https://github.com/user-attachments/files/31882311/ACTIVITY.1_GE.4120_TOLENTINO.pdf)
-Understanding the purpose behind every design.
+
+**Understanding the purpose behind every design.**
 My first project introduced me to the importance of design thinking and purposeful creation. It allowed me to look beyond aesthetics and understand how design can communicate ideas, address needs, and create meaningful experiences.
 This project became the foundation for how I approached the projects that followed.
 
+
 **02 — PERSONAL BRANDING**
 [ACTIVITY 2_TOLENTINO .pdf](https://github.com/user-attachments/files/31882421/ACTIVITY.2_TOLENTINO.pdf)
-Designing the identity behind the creator.
+
+**Designing the identity behind the creator.**
 Personal branding allowed me to explore how visual identity, creativity, and personal values can come together to represent who I am.
 Through this project, I learned that branding is not only about logos, colors, or aesthetics—it is also about creating an identity that communicates personality, purpose, and individuality.
 
-**03 — INFOGRAPHICS**
 
-Turning information into something people can understand.
+**03 — INFOGRAPHICS**
+[INFOGRAPHIC-TOLENTINO.pdf](https://github.com/user-attachments/files/31882492/INFOGRAPHIC-TOLENTINO.pdf)
+
+**Turning information into something people can understand.**
 For this project, I created an infographic focused on Proper Waste Disposal.
 The design communicates practical ways to dispose of waste properly, including segregating biodegradable, recyclable, residual, and hazardous waste, while also highlighting the common causes and effects of improper waste disposal.
 This project taught me how to transform information into a clear, concise, and visually engaging message that can be easily understood by an audience.
+
+
+**04 — PROJECT DOCUMENTATION**
+[Project Documentation_TOLENTINO.pdf](https://github.com/user-attachments/files/31882513/Project.Documentation_TOLENTINO.pdf)
+
+**From a problem to a proposed solution.**
+My fourth project, E-WalletGuard: A Cyber-Hygiene and Scam Detection System for E-Wallet Users, focuses on the growing risk of e-wallet scams and the need for stronger cyber-hygiene practices.
+The proposed system would help users check suspicious messages and links, protect their financial information, receive cyber-hygiene reminders, learn about common scams, and report suspicious activities.
+This project allowed me to take Project Design beyond visual communication and explore how technology and design can work together to address a real-world problem.
